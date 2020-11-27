@@ -1,0 +1,36 @@
+body{background-color:white;}
+id.nume{color:#ff6347;}
+id.email {color: rgb(25, 99, 71);}
+p {color: #3cb371}
+
+table tr{background-color: lightblue;}
+table td{background-color: white;}
+ 
+ table,td {border: 2px solid mauve;}
+
+ 
+ h2.sectiune {font-family:"Verdana";
+ font-style:bold;
+ font-size: 30px;}
+ 
+ p{font-family:"Arial";
+ font-size
+ }
+ 
+ img.profil{
+ width: 200px;
+height: 1900px;
+ border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 7px;
+  width: 150px;}
+  
+  div2 {
+  border: 1px solid black;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 75px;
+  margin-left: 25px;
+  
+  
+}
